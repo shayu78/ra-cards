@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/xeh7mekfetbalo2b?svg=true)](https://ci.appveyor.com/project/shayu78/ra-cards)
+[![Build status](https://ci.appveyor.com/api/projects/status/09uvxqgcydvqvrer?svg=true)](https://ci.appveyor.com/project/shayu78/ra-cards)
+
 Карточки
 ===
 
