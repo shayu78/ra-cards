@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra-cards/static/css/main.862360cb.chunk.css",
+    "main.js": "/ra-cards/static/js/main.e9ae4f40.chunk.js",
+    "main.js.map": "/ra-cards/static/js/main.e9ae4f40.chunk.js.map",
+    "runtime-main.js": "/ra-cards/static/js/runtime-main.ee6d13e1.js",
+    "runtime-main.js.map": "/ra-cards/static/js/runtime-main.ee6d13e1.js.map",
+    "static/js/2.bc9323bb.chunk.js": "/ra-cards/static/js/2.bc9323bb.chunk.js",
+    "static/js/2.bc9323bb.chunk.js.map": "/ra-cards/static/js/2.bc9323bb.chunk.js.map",
+    "static/js/3.7adbfeaf.chunk.js": "/ra-cards/static/js/3.7adbfeaf.chunk.js",
+    "static/js/3.7adbfeaf.chunk.js.map": "/ra-cards/static/js/3.7adbfeaf.chunk.js.map",
+    "index.html": "/ra-cards/index.html",
+    "static/css/main.862360cb.chunk.css.map": "/ra-cards/static/css/main.862360cb.chunk.css.map",
+    "static/js/2.bc9323bb.chunk.js.LICENSE.txt": "/ra-cards/static/js/2.bc9323bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6292de5d.svg": "/ra-cards/static/media/logo.6292de5d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee6d13e1.js",
+    "static/js/2.bc9323bb.chunk.js",
+    "static/css/main.862360cb.chunk.css",
+    "static/js/main.e9ae4f40.chunk.js"
+  ]
+}
